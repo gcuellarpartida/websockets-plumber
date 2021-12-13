@@ -1,0 +1,21 @@
+.card {
+    max-width: 700px;
+    min-width: 120px;
+    margin: 20px auto;
+}
+
+.card-content {
+    padding-top: 15px;
+    max-height: 200px;
+    height: 200px;
+    overflow-y: auto;
+}
+
+.submit-button {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.full-width {
+    width: 100%
+}
